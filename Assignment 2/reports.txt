@@ -1,0 +1,71 @@
+--------------------------------------------------
+The Data supports the Women and Children Hypothesis 
+Proof:
+Survival Rate by Groups:
+
+ Sex     Age Group
+female  Child         38.834951
+        Teen          75.324675
+        Adults        69.956140
+        Senior       100.000000
+male    Child         32.000000
+        Teen           8.695652
+        Adults        20.262391
+        Senior        11.111111
+Name: Survived, dtype: float64
+From the above data we can see that Women and Children have higher survival rate than Mens, Hence it support this Hypothesis
+--------------------------------------------------
+The Data Shows that Wealthy have higher survival Rate
+Proof:
+Survival Rate by Class:
+
+ Pclass
+1    68.905473
+2    48.000000
+3    23.905724
+Name: Survived, dtype: float64
+Survival Rate by Fare:
+
+ FareBin
+Low          0.229426
+Medium       0.441687
+High         0.336449
+Very High    0.609418
+Name: Survived, dtype: float64 
+From the above data It is clear that Wealthier had Greater Survival Rate
+----------------------------------------------------------------------------------------------------
+The Data supports the Women and Children Hypothesis 
+Proof:
+Survival Rate by Groups:
+
+ Sex     Age Group
+female  Child         38.834951
+        Teen          75.324675
+        Adults        69.956140
+        Senior       100.000000
+male    Child         32.000000
+        Teen           8.695652
+        Adults        20.262391
+        Senior        11.111111
+Name: Survived, dtype: float64
+From the above data we can see that Women and Children have higher survival rate than Mens, Hence it support this Hypothesis
+--------------------------------------------------
+The Data Shows that Wealthy have higher survival Rate
+Proof:
+Survival Rate by Class:
+
+ Pclass
+1    68.905473
+2    48.000000
+3    23.905724
+Name: Survived, dtype: float64
+Survival Rate by Fare:
+
+ FareBin
+Low          0.229426
+Medium       0.441687
+High         0.336449
+Very High    0.609418
+Name: Survived, dtype: float64 
+From the above data It is clear that Wealthier had Greater Survival Rate
+--------------------------------------------------

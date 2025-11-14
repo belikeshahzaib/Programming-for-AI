@@ -1,0 +1,12 @@
+PassengerId: int64 ---- Null Values: 0.00%
+Survived: int64 ---- Null Values: 0.00%
+Pclass: int64 ---- Null Values: 0.00%
+Name: object ---- Null Values: 0.00%
+Sex: object ---- Null Values: 0.00%
+Age: float64 ---- Null Values: 19.87%
+SibSp: int64 ---- Null Values: 0.00%
+Parch: int64 ---- Null Values: 0.00%
+Ticket: object ---- Null Values: 0.00%
+Fare: float64 ---- Null Values: 0.00%
+Cabin: object ---- Null Values: 77.10%
+Embarked: object ---- Null Values: 0.22%
